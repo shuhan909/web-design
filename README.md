@@ -2,7 +2,7 @@
 ## In-class demo for educational purposes 
 ### Airports Website
 
-![network breackets illustration] (network-brackets.png)
+![network breackets illustration](network-brackets.png)
 
 Underlined top-level heading
 ==============================
